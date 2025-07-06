@@ -10,7 +10,7 @@ This project focuses on building a reliable and interpretable model to assess th
 
 ---
 
-## 🛠 Key Features
+##  Key Features
 
 - Comprehensive data preprocessing (handling missing values, normalization)
 - Advanced feature selection techniques to identify key predictors
