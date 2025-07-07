@@ -36,5 +36,4 @@ Dataset sourced from [Specify source here], containing clinical attributes, ultr
    
 pip install -r requirements.txt
 
-python preprocess.py
-python train_model.py
+
